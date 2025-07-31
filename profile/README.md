@@ -10,7 +10,7 @@ I am an independant application developper, designer and a video editor.
 MAT Services is an organisation of softwares creators.
 For more informations, [see it here](https://github.com/MAT-Services-ORG) !
 
-![MAT](https://mat-services-org.github.io/.github/ezgif-72b87ad6c0c910.gif)
+[![MAT](https://mat-services-org.github.io/.github/ezgif-72b87ad6c0c910.gif)](https://github.com/MAT-Services-ORG)
 
 ## What's my favorites languages?
 Just see:
