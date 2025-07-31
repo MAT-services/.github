@@ -12,8 +12,13 @@ For more informations, [see it here](https://github.com/MAT-Services-ORG) !
 
 ![MAT](https://mat-services-org.github.io/.github/ezgif-72b87ad6c0c910.gif)
 
+## What's my favorites languages?
+Just see:
+
+![Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=MAT-Services)
+
 ## What is my favorite video game?
-My favorite video-game is, of course, Minecraft. (JAVA PLS!!!) 
+My favorite video-game is, of course, Minecraft. *(JAVA PLS!!!)*
 
 ![Minecraft](https://mat-services-org.github.io/.github/cube.gif)
 
