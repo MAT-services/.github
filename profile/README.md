@@ -15,7 +15,7 @@ For more informations, [see it here](https://github.com/MAT-Services-ORG) !
 ## What's my favorites languages?
 Just see:
 
-![Statistics](ttp://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mat-services&theme=transparent)
+![Statistics](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mat-services&theme=transparent)
 
 ## What is my favorite video game?
 My favorite video-game is, of course, Minecraft. *(JAVA PLS!!!)*
